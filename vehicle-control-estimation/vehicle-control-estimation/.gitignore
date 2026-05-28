@@ -1,0 +1,5 @@
+*.asv
+*.mat
+slprj/
+octave-workspace
+*.autosave
